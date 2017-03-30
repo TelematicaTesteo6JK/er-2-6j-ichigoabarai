@@ -1,0 +1,9 @@
+EXMANESITO
+
+A)   2 X 2 X 2 X 2 X 2  = 32 
+                                                                  
+B)  3 X 3 X 3 X 2 X 2 = 108
+
+
+NIVEL DE PRUEBA: EST� A NIVEL UNIDAD PORQUE EL TEST NO NECESITA
+COMUNICARSE CON OTROS ELEMENTOS PARA PODER HACER LA PRUEBA.
